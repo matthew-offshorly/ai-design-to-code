@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --text-links: Inter;
+
+  /* font sizes */
+  --text-links-size: 14px;
+  --inter-bold-size: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --darker-turquoise: #14b6c6;
+  --color-darkslategray: #434343;
+  --color-gainsboro: #d8e9eb;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-2xs: 11px;
+  --padding-3xs: 10px;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-5xs: 8px;
+}
